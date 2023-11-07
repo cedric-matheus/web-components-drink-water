@@ -3,6 +3,8 @@
   - [Organização do Projeto](#organização-do-projeto)
     - [Documents](#documents)
       - [Repositório](#repositório)
+    - [Web App](#web-app)
+      - [Repositório](#repositório-1)
 
 
 # Projeto WebComponents - Drink Water!
@@ -21,6 +23,7 @@ Projeto demonstrativo sobre a tecnologia WebComponents.
 - Bootstrap;
 - Brain.JS;
 
+
 ## Organização do Projeto
 O projeto está organizado em submódulos.
 
@@ -34,5 +37,15 @@ Você pode baixar todo o projeto de uma vez acessando o repositório principal
 Aqui estão localizados toda documentação (Requisitos, Protótipos, etc.) do
 projeto.
 
+
 #### Repositório
 `/drink-water-documents`
+
+
+### Web App
+
+Aqui está localizada a aplicação web do projeto.
+
+
+#### Repositório
+`/drink-water-web-app`

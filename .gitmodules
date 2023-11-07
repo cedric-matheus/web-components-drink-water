@@ -1,3 +1,6 @@
 [submodule "documents"]
 	path = documents
 	url = https://github.com/cedric-matheus/drink-water-documents
+[submodule "web-app"]
+	path = web-app
+	url = https://github.com/cedric-matheus/drink-water-web-app
